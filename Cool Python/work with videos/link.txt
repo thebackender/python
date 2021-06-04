@@ -1,0 +1,2 @@
+https://docs.opencv.org/master/dd/d43/tutorial_py_video_display.html
+https://zulko.github.io/moviepy/getting_started/compositing.html
