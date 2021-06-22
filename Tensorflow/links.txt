@@ -1,3 +1,15 @@
+#Only theory from freeCodeCamp Courses
 1) Freecamp Course: https://www.youtube.com/watch?v=tPYj3fFJGjk
  - 6593th: 00:00:00 - 01:00:00
-2) My google colab: https://colab.research.google.com/drive/1a4WP7HPYK_0wQqda_1j7SQZ_nn7WZU0z?pli=1#scrollTo=hdCjh80OON9v
+ - 6596th: 01:00:00 - 02:00:00
+ - 6597th: 02:00:00 - 03:00:00
+2) My 1 google colab: https://colab.research.google.com/drive/1a4WP7HPYK_0wQqda_1j7SQZ_nn7WZU0z?pli=1#scrollTo=hdCjh80OON9v
+3) Probability of survive from train.ipynb: https://colab.research.google.com/drive/1CsnoerwgsBNJjeCImRPweqshDcLCU9jp
+3) Classify flowers.ipynb: https://colab.research.google.com/drive/1v68EiD9kMIenXhlcSSKnqaMAFbfkZH5A#scrollTo=WvlnrnXzY0tp
+4) Weather Model: https://colab.research.google.com/drive/1M7_VUUkumcyBMRfS460OKvCRYNLfst8r#scrollTo=hU4xo5x68QXd
+
+#Start 6598 I will start Practical stuffs, by doing real Projects
+5) Practice by this guy https://www.youtube.com/c/NicholasRenotte/videos because it seems he is pro data science)
+6) Just code with minimum understanding of it, and one day I can be pro like pro in php
+7) https://www.youtube.com/watch?v=nxRRf0ebPxU&t=182s
+https://colab.research.google.com/drive/1jVHKEaWDl0zd5UBS6r9_J_Dm_GLvJiN_#scrollTo=2r7ZRvWHJH6-
